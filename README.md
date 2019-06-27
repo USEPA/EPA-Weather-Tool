@@ -1,1 +1,7 @@
-# EPA-Weather-Tool
+# EPA Weather Tool
+
+The Weather Data Tool is a command line interface application written in Python that facilitates the acquisition of time series precipitation data from national Forecast and Historical weather data providers and generates an output file to be consumed by the EPA Storm Water Management Model (SWMM). The application conducts lightweight processing and formatting of the downloaded data to generate an output file containing rainfall precipitation values greater than 0 and conforms to the specified DSI-3240 file format.
+
+Disclaimer: *The United States Environmental Protection Agency (EPA) GitHub project code is provided on an "as is" basis and the user assumes responsibility for its use.  EPA has relinquished control of the information and no longer has responsibility to protect the integrity , confidentiality, or availability of the information.  Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by EPA.  The EPA seal and logo shall not be used in any manner to imply endorsement of any commercial product or activity by EPA or the United States Government.*
+
+Link to [EPA Weather Tool](https://ofmpub.epa.gov/sor_internet/registry2/reusereg/searchandretrieve/details/general/16417) in EPA's Reusable Components Services (RCS) page.
