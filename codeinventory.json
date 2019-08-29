@@ -1,0 +1,29 @@
+{
+  "organization": "US EPA Office of Research and Development",
+  "name": "EPA Weather Tool",
+  "description": "Fetches national forecast and historical weather data for EPA SWMM",
+  "repositoryURL": "https://github.com/USEPA/EPA-Weather-Tool",
+  "permissions": {
+    "licenses": [
+        {
+        "name": "CC0 1.0",
+        "URL":"https://github.com/USEPA/open-source-projects/blob/master/license.md",
+        }
+    ],
+    "usageType": "openSource",
+  }
+  "tags": [
+    "EPA",
+    "SWMM",
+    "Stormwater Management Model",
+    "precipitation",
+    "forecast",
+    "hindcast"
+  ],
+  "languages": [
+    "Python"
+  ],
+  "contact": {
+    "email": "ratliff.katherine@epa.gov"
+  }
+}
